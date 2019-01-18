@@ -1,0 +1,39 @@
+01;Zagreb
+02;Split
+03;Rijeka
+04;Osijek
+05;Zadar
+06;Slavonski Brod
+07;Pula
+08;Sesvete
+09;Kaštela
+10;Karlovac
+11;Sisak
+12;Dubrovnik
+13;Varaždin
+14;Šibenik
+15;Velika Gorica
+16;Vinkovci
+17;Vukovar
+18;Bjelovar
+19;Koprivnica
+20;Đakovo
+21;Požega
+22;Zaprešić
+23;Solin
+24;Čakovec
+25;Virovitica
+26;Samobor
+27;Kutina
+28;Metković
+29;Petrinja
+30;Županja
+31;Rovinj
+32;Makarska
+33;Nova Gradiška
+34;Križevci
+35;Sinj
+36;Knin
+37;Slatina
+38;Trogir
+39;Poreč

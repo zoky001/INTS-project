@@ -11,10 +11,25 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
     <dependencies>
-    <dependency>
-        <groupId>com.stackoverflow...</groupId>
-        <artifactId>artifactId...</artifactId>
-        <version>4.3.0</version>
-    </dependency>
+<dependency>
+    <groupId>io.jenetics</groupId>
+    <artifactId>jenetics</artifactId>
+    <version>4.3.0</version>
+</dependency>
+<dependency>
+    <groupId>io.jenetics</groupId>
+    <artifactId>jpx</artifactId>
+    <version>1.4.0</version>
+</dependency>
+<dependency>
+    <groupId>io.jenetics</groupId>
+    <artifactId>jenetics.ext</artifactId>
+    <version>4.3.0</version>
+</dependency>
+<dependency>
+    <groupId>io.jenetics</groupId>
+    <artifactId>jenetics.prog</artifactId>
+    <version>4.3.0</version>
+</dependency>
 </dependencies>
 </project>

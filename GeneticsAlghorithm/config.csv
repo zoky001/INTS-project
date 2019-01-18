@@ -1,0 +1,3 @@
+transportationCostPerKilometer;15000
+retailStoresFile;hr_retail_stores_cities.csv
+warehouseFile;hr-warehouse-cities.csv
